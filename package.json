@@ -1,6 +1,6 @@
 {
   "name": "lsmidi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple command to list midi devices available",
   "bin": "./bin/lsmidi.js",
   "preferGlobal": true,
