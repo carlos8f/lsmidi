@@ -16,7 +16,7 @@
   "author": "Carlos Rodriguez",
   "license": "MIT",
   "dependencies": {
-    "midi": "~0.6.0",
+    "midi": "~0.9.5",
     "optimist": "~0.3.4",
     "colors": "~0.6.0-1"
   }
